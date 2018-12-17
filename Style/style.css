@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+select:invalid {
+  color: gray;
+}
+
+label {
+  display: inline-block;
+  background-color: #BDBDBD;
+  padding: 1em;
+  cursor: pointer;
+  text-align: center;
+}
+
+input {
+  display: block;
+}
